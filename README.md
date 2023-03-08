@@ -1,7 +1,8 @@
 # Youtuber 頻道爬蟲 Super Chat
 
 ## demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6vBbLm3sNgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![](https://i.imgur.com/cW46B3m.jpg)](https://www.youtube.com/embed/6vBbLm3sNgU)
 
 ## 安裝&環境要求
 * 環境要求
